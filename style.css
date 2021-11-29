@@ -1,0 +1,28 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.div {
+  background-color: rgb(31, 31, 58);
+  color: aliceblue;
+  padding: 25px;
+}
+
+.div h1 {
+  font-size: 75px;
+}
+
+.btn {
+  color: black;
+  background-color: white;
+  margin-bottom: 25px;
+  width: 110px;
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
